@@ -35,17 +35,7 @@ INT 21h
 
 MOV DX, AX
 MOV AX, BX
-MOV BX, DX 
-
-
-
-
-
-
-
-
-
- 
+MOV BX, DX  
 
 ;exit to DOS
                
