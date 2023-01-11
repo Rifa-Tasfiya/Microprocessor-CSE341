@@ -47,16 +47,6 @@ MOV DS,AX
     MOV AH, 02
     INT 21h
     
-    
-
- 
-
-
-
-
-
- 
-
 ;exit to DOS
                
 MOV AX,4C00H
